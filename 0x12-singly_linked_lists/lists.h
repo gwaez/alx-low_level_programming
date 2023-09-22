@@ -1,6 +1,3 @@
-/*
- * By Ahmed Mahmoud Gw@3z
- */
 #ifndef LISTS_H
 #define LISTS_H
 
