@@ -1,6 +1,3 @@
-/*
- *Done By aGw@3z
- */
 #include "lists.h"
 
 /**
