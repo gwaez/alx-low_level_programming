@@ -13,7 +13,7 @@
  * @str: string - (malloc'ed string)
  * @len: length of the string
  * @next: points to the next node
- *y Gw@3z
+ * 
  * Description: singly linked list node structure
  * for Holberton project
  */
